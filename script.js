@@ -6,7 +6,7 @@ const translations = {
     "nav.contact": "Contact",
     "nav.cta": "Book a call",
 
-    "hero.eyebrow": "// IT consultant — France · remote worldwide",
+    "hero.eyebrow": "// IT consultant · remote, worldwide",
     "hero.line1": "Twenty years building software.",
     "hero.line2": "Ten years teaching it.",
     "hero.sub": "I help companies and institutions ship better software, adopt AI tooling with confidence, and grow the skills of their teams.",
@@ -16,7 +16,7 @@ const translations = {
 
     "about.eyebrow": "// about",
     "about.title": "Engineer first, educator by conviction",
-    "about.p1": "I'm Benoît, an independent IT consultant based in Normandy, France. My career runs on two rails: engineering and education. I've built web platforms, microservice architectures and internal tools — and I've taught software engineering to hundreds of students, from first-year developers to graduating architects.",
+    "about.p1": "I'm Benoît, an independent IT consultant. My career runs on two rails: engineering and education. I've built web platforms, microservice architectures and internal tools — and I've taught software engineering to hundreds of students, from first-year developers to graduating architects.",
     "about.p2": "That combination shapes how I work. I don't just deliver systems; I make sure the people around them understand, own and can evolve them. I work with clients ranging from startups to international organizations, often in a fractional technology-leadership role, and I'm open to new collaborations.",
     "about.p3": "Lately, a large part of my practice is helping teams integrate AI into how they build software — using tools like Claude Code and Cursor daily, and knowing where they accelerate a team and where they don't.",
     "about.fact1": "years in software development",
@@ -38,7 +38,7 @@ const translations = {
     "exp.title": "A career in commits",
     "exp.e1.date": "2025 — now",
     "exp.e1.role": "IT Consultant · Independent",
-    "exp.e1.desc": "Fractional technology leadership, software delivery and training for clients in France and abroad.",
+    "exp.e1.desc": "Fractional technology leadership, software delivery and training for clients worldwide.",
     "exp.e2.date": "2024",
     "exp.e2.role": "Operations Director · 4NK Academy",
     "exp.e2.desc": "Led a training organization through a national certification filing (RNCP level 6), built a low-code ERP/CRM, and prepared a successful Qualiopi quality audit.",
@@ -74,7 +74,7 @@ const translations = {
     "nav.contact": "Contact",
     "nav.cta": "Réserver un appel",
 
-    "hero.eyebrow": "// consultant informatique — France · remote international",
+    "hero.eyebrow": "// consultant informatique · remote, international",
     "hero.line1": "Vingt ans à développer des logiciels.",
     "hero.line2": "Dix ans à l'enseigner.",
     "hero.sub": "J'aide les entreprises et les institutions à livrer de meilleurs logiciels, à adopter les outils d'IA avec confiance et à faire monter leurs équipes en compétences.",
@@ -84,7 +84,7 @@ const translations = {
 
     "about.eyebrow": "// à propos",
     "about.title": "Ingénieur d'abord, pédagogue par conviction",
-    "about.p1": "Je suis Benoît, consultant informatique indépendant basé en Normandie. Ma carrière avance sur deux rails : l'ingénierie et la pédagogie. J'ai construit des plateformes web, des architectures microservices et des outils internes — et j'ai formé des centaines d'étudiants en développement logiciel, du Bac+2 au Bac+5.",
+    "about.p1": "Je suis Benoît, consultant informatique indépendant. Ma carrière avance sur deux rails : l'ingénierie et la pédagogie. J'ai construit des plateformes web, des architectures microservices et des outils internes — et j'ai formé des centaines d'étudiants en développement logiciel, du Bac+2 au Bac+5.",
     "about.p2": "Cette double casquette façonne ma manière de travailler. Je ne me contente pas de livrer des systèmes : je m'assure que les équipes les comprennent, se les approprient et sachent les faire évoluer. J'accompagne des clients allant de la startup à l'organisation internationale, souvent dans un rôle de direction technique à temps partagé, et je suis ouvert à de nouvelles collaborations.",
     "about.p3": "Aujourd'hui, une grande partie de mon activité consiste à aider les équipes à intégrer l'IA dans leur façon de développer — avec des outils comme Claude Code et Cursor au quotidien, en sachant où ils accélèrent une équipe et où ils ne servent à rien.",
     "about.fact1": "ans de développement logiciel",
@@ -106,7 +106,7 @@ const translations = {
     "exp.title": "Une carrière en commits",
     "exp.e1.date": "2025 — auj.",
     "exp.e1.role": "Consultant informatique · Indépendant",
-    "exp.e1.desc": "Direction technique à temps partagé, développement logiciel et formation pour des clients en France et à l'international.",
+    "exp.e1.desc": "Direction technique à temps partagé, développement logiciel et formation pour des clients partout dans le monde.",
     "exp.e2.date": "2024",
     "exp.e2.role": "Directeur opérationnel · 4NK Academy",
     "exp.e2.desc": "Pilotage d'un organisme de formation : dépôt d'un titre RNCP niveau 6, développement d'un ERP/CRM en low-code et préparation réussie de l'audit Qualiopi.",
